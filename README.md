@@ -3,6 +3,8 @@ using Power BI and MySQL
 
 
 
-<img width="457" height="274" alt="credit card" src="https://github.com/user-attachments/assets/3ae05b78-4922-41ea-9628-02d0dd764d88" />
-<img width="457" height="267" alt="credit card Tr" src="https://github.com/user-attachments/assets/c30ff3db-aea1-4cc6-bb2e-20b71fafdf6f" />
+<img width="631" height="338" alt="TRANS" src="https://github.com/user-attachments/assets/1b1a31ff-1661-417b-b2ea-95c1450a9cd1" />
+<img width="631" height="318" alt="customer" src="https://github.com/user-attachments/assets/8a59f7d9-0417-47a2-ad24-7d6a6a21590c" />
+
+
 
