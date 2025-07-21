@@ -2,7 +2,8 @@
 using Power BI and MySQL 
 A comprehensive suite of Power BI dashboards analysing credit card customer behaviour and transaction trends. 
 Mapped KPIs like Total Revenue ($55.3M), Interest Earned, and CSS scores using dynamic DAX measures and SQL queries.
-INSIGHTS it offered are :-
+
+INSIGHTS it offered are:-
 Blue cards dominate both revenue and interest—likely the most popular or widely used tier.
 Revenue is fairly consistent across quarters, with Q3 slightly ahead.
 Utility payments and lifestyle expenses (entertainment, food) are the top contributors.
